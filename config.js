@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "chào các bạn",
-    introTitle: 'Hi bae <3',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Hi Bae <3",
+    introTitle: 'Vịt à :3',
+    introDesc: `Anh có điều này muốn nói với em`,
     btnIntro: '^^HiHi^^',
-    title: 'CHÀO MỪNG ĐẾN VỚI WED CỦA HUY 🥰',
-    desc: 'Wed tớ làm ra đỉnh lắm đúng không',
-    btnYes: 'Thích lắm <33',
+    title: 'CHÀO MỪNG THẾ GIỚI CỦA ANH VỪA ĐẶT CHÂN ĐẾN ĐÂY 🥰 ',
+    desc: 'Em yêu anh phải không nào zịt 🥰',
+    btnYes: 'Yêuuu lắm <33',
     btnNo: 'Không nha :3',
-    question: 'anh huy là số 1 đúng không',
+    question: 'Lí do vì sao yêu anh zay :3333 ?',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'đúng vậy <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    reply: 'Vì anh đẹp try vclllllllll <33333333',
+    mess: 'Anh biết mà 🥰. Yêuuuu 😘😘',
     messDesc: 'cho tao vay tiền nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100034824795446' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/thanhbuiss/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
